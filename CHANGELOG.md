@@ -8,8 +8,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Add link to reference linked containers advanced features documentation by @nicholas-fedor in [#1532](https://github.com/nicholas-fedor/watchtower/pull/1532)
+
 ### Chores
 
+- Update goreleaser/goreleaser-action digest to 2a473d7 by @renovate[bot] in [#1531](https://github.com/nicholas-fedor/watchtower/pull/1531)
+- Update module go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp to v1.43.0 by @renovate[bot] in [#1530](https://github.com/nicholas-fedor/watchtower/pull/1530)
+- Update module go.opentelemetry.io/otel/metric to v1.43.0 by @renovate[bot] in [#1529](https://github.com/nicholas-fedor/watchtower/pull/1529)
+- Update docker/login-action digest to 4907a6d by @renovate[bot] in [#1526](https://github.com/nicholas-fedor/watchtower/pull/1526)
+- Update github.com/google/pprof digest to 545e8a4 by @renovate[bot] in [#1525](https://github.com/nicholas-fedor/watchtower/pull/1525)
+- Update peter-evans/create-pull-request digest to d32e88d by @renovate[bot] in [#1524](https://github.com/nicholas-fedor/watchtower/pull/1524)
+- Update golangci/golangci-lint-action digest to 36fe29c by @renovate[bot] in [#1523](https://github.com/nicholas-fedor/watchtower/pull/1523)
+- Update docker/setup-qemu-action digest to f4e8dee by @renovate[bot] in [#1522](https://github.com/nicholas-fedor/watchtower/pull/1522)
+- Update docker/setup-buildx-action digest to 2116288 by @renovate[bot] in [#1521](https://github.com/nicholas-fedor/watchtower/pull/1521)
+- Update docker/login-action digest to bb555fc by @renovate[bot] in [#1520](https://github.com/nicholas-fedor/watchtower/pull/1520)
+- Update module google.golang.org/grpc to v1.80.0 by @renovate[bot] in [#1518](https://github.com/nicholas-fedor/watchtower/pull/1518)
 - Update google.golang.org/genproto/googleapis/rpc digest to 9d38bb4 by @renovate[bot] in [#1517](https://github.com/nicholas-fedor/watchtower/pull/1517)
 - Update google.golang.org/genproto/googleapis/api digest to 9d38bb4 by @renovate[bot] in [#1516](https://github.com/nicholas-fedor/watchtower/pull/1516)
 
